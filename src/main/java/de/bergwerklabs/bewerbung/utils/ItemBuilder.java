@@ -163,7 +163,7 @@ public class ItemBuilder {
     /**
      *
      * @param unbreakable -> is item unbreakable
-     * @return This class: @see me.luca.bowduell.utils.ItemBuilder
+     * @return This class
      */
     public ItemBuilder setUnbreakable(boolean unbreakable) {
         itemStack.getItemMeta().spigot().setUnbreakable(unbreakable);
@@ -173,7 +173,7 @@ public class ItemBuilder {
     /**
      *
      * @param color -> color of the leather
-     * @return This class: @see me.luca.bowduell.utils.ItemBuilder
+     * @return This class
      */
     public ItemBuilder setLeatherColor(Color color) {
         LeatherArmorMeta meta = (LeatherArmorMeta) itemStack.getItemMeta();
