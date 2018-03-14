@@ -1,0 +1,5 @@
+name: Gadgets
+version: ${project.version}
+main: de.bergwerklabs.bewerbung.Gadgets
+authors: [RedstoneRaudi]
+description: Simple Gadgets Plugins for Bergwerklabs
