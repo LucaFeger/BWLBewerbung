@@ -14,7 +14,7 @@ import java.util.List;
 /**
  * ItemBuilder for
  * @see ItemStack
- * by SpigotException
+ * by SpigotException (editet by Luca Feger)
  *
  * version 1.0
  */
